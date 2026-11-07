@@ -1,4 +1,4 @@
-DUALIS|1|2|b9b857ff
+DUALIS|1|3|8cab20e6
 {
  "scriptMin": "1.0.0",
  "publie": 26265600,
@@ -16457,6 +16457,18 @@ DUALIS|1|2|b9b857ff
    "categorie": "Monde",
    "titre": "Jour et nuit",
    "texte": "Les boutiques ferment la nuit (un panneau indique leurs horaires). Certains poissons, fleurs et animaux ne se montrent qu'après 20 h."
+  },
+  {
+   "id": 6,
+   "categorie": "Métiers",
+   "titre": "Récolte et artisanat",
+   "texte": "6 métiers de récolte (mineur, bûcheron, herboriste, pêcheur, chasseur, fermier) fournissent les 8 métiers d'artisanat. Presque toutes les recettes demandent des éclats élémentaires."
+  },
+  {
+   "id": 7,
+   "categorie": "Monde",
+   "titre": "Jour et nuit",
+   "texte": "Les boutiques ferment la nuit (un panneau indique leurs horaires). Certains poissons, fleurs et animaux ne se montrent qu'après 20 h."
   }
  ],
  "grades": [
@@ -17079,6 +17091,7 @@ DUALIS|1|2|b9b857ff
    "activites": [
     {
      "slot": 0,
+     "nom": "Carrière de pierre",
      "metier": 1,
      "outil": 2001,
      "outils": [
@@ -17121,6 +17134,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 1,
+     "nom": "Filon de cuivre",
      "metier": 1,
      "outil": 2001,
      "outils": [
@@ -17157,6 +17171,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 2,
+     "nom": "Filon d'étain",
      "metier": 1,
      "outil": 2001,
      "outils": [
@@ -17187,6 +17202,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 3,
+     "nom": "Gisement de charbon",
      "metier": 1,
      "outil": 2001,
      "outils": [
@@ -17217,6 +17233,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 4,
+     "nom": "Filon de fer",
      "metier": 1,
      "outil": 2002,
      "outils": [
@@ -17252,6 +17269,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 5,
+     "nom": "Filon d'argent",
      "metier": 1,
      "outil": 2002,
      "outils": [
@@ -17281,6 +17299,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 6,
+     "nom": "Filon d'or",
      "metier": 1,
      "outil": 2003,
      "outils": [
@@ -17315,6 +17334,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 7,
+     "nom": "Filon de mithril",
      "metier": 1,
      "outil": 2003,
      "outils": [
@@ -17343,6 +17363,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 8,
+     "nom": "Filon de cobalt",
      "metier": 1,
      "outil": 2003,
      "outils": [
@@ -17377,6 +17398,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 9,
+     "nom": "Filon d'adamantite",
      "metier": 1,
      "outil": 2004,
      "outils": [
@@ -17410,6 +17432,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 10,
+     "nom": "Gisement de cristaux",
      "metier": 1,
      "outil": 2002,
      "outils": [
@@ -17469,6 +17492,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 11,
+     "nom": "Frêne",
      "metier": 2,
      "outil": 2005,
      "outils": [
@@ -17511,6 +17535,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 12,
+     "nom": "Érable",
      "metier": 2,
      "outil": 2005,
      "outils": [
@@ -17559,6 +17584,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 13,
+     "nom": "Orme",
      "metier": 2,
      "outil": 2006,
      "outils": [
@@ -17600,6 +17626,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 14,
+     "nom": "If",
      "metier": 2,
      "outil": 2006,
      "outils": [
@@ -17647,6 +17674,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 15,
+     "nom": "Chêne",
      "metier": 2,
      "outil": 2007,
      "outils": [
@@ -17687,6 +17715,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 16,
+     "nom": "Noyer",
      "metier": 2,
      "outil": 2007,
      "outils": [
@@ -17727,6 +17756,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 17,
+     "nom": "Acajou",
      "metier": 2,
      "outil": 2007,
      "outils": [
@@ -17773,6 +17803,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 18,
+     "nom": "Ébène",
      "metier": 2,
      "outil": 2008,
      "outils": [
@@ -17812,6 +17843,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 19,
+     "nom": "Buisson d'herbes",
      "metier": 3,
      "outil": 2009,
      "outils": [
@@ -17848,6 +17880,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 20,
+     "nom": "Champ de lavande",
      "metier": 3,
      "outil": 2009,
      "outils": [
@@ -17878,6 +17911,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 21,
+     "nom": "Coin à champignons",
      "metier": 3,
      "outil": 2009,
      "outils": [
@@ -17908,6 +17942,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 22,
+     "nom": "Fleurs de lune",
      "metier": 3,
      "outil": 2010,
      "outils": [
@@ -17943,6 +17978,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 23,
+     "nom": "Mandragore",
      "metier": 3,
      "outil": 2010,
      "outils": [
@@ -17966,6 +18002,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 24,
+     "nom": "Truffière",
      "metier": 3,
      "outil": 2011,
      "outils": [
@@ -17994,6 +18031,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 25,
+     "nom": "Herbe de dragon",
      "metier": 3,
      "outil": 2011,
      "outils": [
@@ -18022,6 +18060,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 26,
+     "nom": "Lotus céleste",
      "metier": 3,
      "outil": 2012,
      "outils": [
@@ -18049,6 +18088,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 27,
+     "nom": "Eau douce : Goujon, Truite arc-en-ciel",
      "metier": 4,
      "outil": 2013,
      "outils": [
@@ -18085,6 +18125,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 28,
+     "nom": "Eau douce : Perche, Anguille",
      "metier": 4,
      "outil": 2013,
      "outils": [
@@ -18121,6 +18162,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 29,
+     "nom": "Eau douce : Brochet, Carpe dorée",
      "metier": 4,
      "outil": 2014,
      "outils": [
@@ -18156,6 +18198,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 30,
+     "nom": "Eau douce profonde : Esturgeon, Silure géant",
      "metier": 4,
      "outil": 2015,
      "outils": [
@@ -18190,6 +18233,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 31,
+     "nom": "Mer : Sardine, Maquereau",
      "metier": 4,
      "outil": 2013,
      "outils": [
@@ -18244,6 +18288,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 32,
+     "nom": "Mer : Dorade, Bar",
      "metier": 4,
      "outil": 2014,
      "outils": [
@@ -18297,6 +18342,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 33,
+     "nom": "Mer profonde : Homard, Calamar",
      "metier": 4,
      "outil": 2014,
      "outils": [
@@ -18350,6 +18396,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 34,
+     "nom": "Mer profonde : Thon rouge, Espadon",
      "metier": 4,
      "outil": 2015,
      "outils": [
@@ -18402,6 +18449,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 35,
+     "nom": "Terrier de lapins",
      "metier": 5,
      "outil": 2017,
      "outils": [
@@ -18438,6 +18486,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 36,
+     "nom": "Pâturage à moutons",
      "metier": 5,
      "outil": 2017,
      "outils": [
@@ -18474,6 +18523,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 37,
+     "nom": "Piste de cerfs",
      "metier": 5,
      "outil": 2018,
      "outils": [
@@ -18515,6 +18565,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 38,
+     "nom": "Souille de sangliers",
      "metier": 5,
      "outil": 2018,
      "outils": [
@@ -18550,6 +18601,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 39,
+     "nom": "Tanière de loups",
      "metier": 5,
      "outil": 2019,
      "outils": [
@@ -18590,6 +18642,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 40,
+     "nom": "Tanière d'ours",
      "metier": 5,
      "outil": 2019,
      "outils": [
@@ -18624,6 +18677,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 41,
+     "nom": "Nid de wyverne",
      "metier": 5,
      "outil": 2020,
      "outils": [
@@ -18657,6 +18711,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 42,
+     "nom": "Champ de blé",
      "metier": 6,
      "outil": 2021,
      "outils": [
@@ -18687,6 +18742,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 43,
+     "nom": "Cotonniers",
      "metier": 6,
      "outil": 2021,
      "outils": [
@@ -18717,6 +18773,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 44,
+     "nom": "Potager",
      "metier": 6,
      "outil": 2021,
      "outils": [
@@ -18759,6 +18816,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 45,
+     "nom": "Poulailler",
      "metier": 6,
      "outil": 2021,
      "outils": [
@@ -18795,6 +18853,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 46,
+     "nom": "Ruches",
      "metier": 6,
      "outil": 2022,
      "outils": [
@@ -18824,6 +18883,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 47,
+     "nom": "Champ de lin",
      "metier": 6,
      "outil": 2022,
      "outils": [
@@ -18853,6 +18913,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 48,
+     "nom": "Vigne",
      "metier": 6,
      "outil": 2022,
      "outils": [
@@ -18882,6 +18943,7 @@ DUALIS|1|2|b9b857ff
     },
     {
      "slot": 49,
+     "nom": "Magnanerie (vers à soie)",
      "metier": 6,
      "outil": 2023,
      "outils": [
